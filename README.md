@@ -1,2 +1,2 @@
-# Power-Learn-Project
-Software engineering basic training
+Software Engineering assignment 1
+Safaricom cohort 2024
